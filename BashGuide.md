@@ -11,7 +11,7 @@ Bash guide for those who need to work with linux terminal.
 #### ls
 Using ```ls``` to show the directory structure.
 
-```bash
+```sh
 $ ls
 Desktop    Dump          Interviews  name.txt   Programs         Templates
 Documents  FYP           Java        Pictures   Public           temp.txt
