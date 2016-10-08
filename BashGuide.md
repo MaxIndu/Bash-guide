@@ -1,12 +1,11 @@
 # Bash Guide
----
 
 Bash guide for those who need to work with linux terminal.
 
 ## Navigation
----
 
 ### Displaying a basic listing
+---
 
 #### ls
 Using ```ls``` to show the directory structure.
@@ -31,7 +30,7 @@ BashGuide.md  Ocaml/  Today TODO.txt*  view.png
 
 #### ls -a
 
-The -a parameter shows all the files that are hidden or not. Hidden files are started with . (dot). Here, the resulting first . means current directory. second .. (two dots) means parent directory. You can navigate to the parent directory by entering ```cd ..`` in the terminal. If you enter ```cd .`` it will stay in the same directory.
+The -a parameter shows all the files that are hidden or not. Hidden files are started with ```.``` (dot). Here, the resulting first ```.``` means current directory. second ```..``` (two dots) means parent directory. You can navigate to the parent directory by entering ```cd ..``` in the terminal. If you enter ```cd .``` it will stay in the same directory.
 
 ``` bash
 $ ls -a
@@ -53,3 +52,6 @@ sec*  sec.ml  untitled
 ```
 
 ### Displaying a long listing
+---
+
+
