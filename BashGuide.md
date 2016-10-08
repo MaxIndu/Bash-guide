@@ -3,10 +3,10 @@
 
 Bash guide for those who need to work with linux terminal.
 
-### Navigation
+## Navigation
 ---
 
-#### Displaying a basic listing
+### Displaying a basic listing
 
 #### ls
 Using ```ls``` to show the directory structure.
@@ -51,3 +51,5 @@ BashGuide.md  Ocaml/  Today TODO.txt*  view.png
 sec*  sec.ml  untitled
 
 ```
+
+### Displaying a long listing
